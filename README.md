@@ -1,1 +1,2 @@
-# App-Library-Intermediate-iOS
+# Library of Apps (Intermediate iOS)
+
